@@ -8,6 +8,7 @@ const Banner = ({ image }) => {
         // height="100%"
         // width="100%"
         layout="fill"
+        alt="banner"
         // objectFit="cover"
         // width={1200}
         // height={500}
